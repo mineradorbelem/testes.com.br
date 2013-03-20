@@ -8,4 +8,4 @@
 <body>
 <script src="http://www.ziggi.com.br/gadget/novidades.js" type="text/javascript"></script>
 </body>
-</html>
+</html> 

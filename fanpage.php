@@ -20,7 +20,7 @@ $.colorbox({width:"550px", inline:true, href:"#subscribe"});
 	left:390px;
 	width:146px;
 	height:97px;
-	z-index:1;
+	z-index:1; 
 }
 </style>
 <div style='display:none'>

@@ -17,7 +17,7 @@ foreach($var["data"] as $img) {
 	
 	echo "<img src=\"$imagem\"> $legenda<br><br>";
 	//print_r($img["caption"]);
-
+ 
 	
 }
 
