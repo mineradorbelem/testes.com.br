@@ -1,3 +1,10 @@
+<?
+//AQUI VEM O CODIGO PHP
+
+// LEONIDAS AMORIM
+
+?>
+
 <html>
 <body>
 <link rel="stylesheet" type="text/css" href="http://www.osdonotaoloko.com.br/css/fanpage.css"/>
